@@ -1,4 +1,4 @@
-## Hi there 👋 I am Mahfuzul Islam Pranto.
+# Hi there 👋 I am Mahfuzul Islam Pranto.
 
 <!--
 **MahfuzulIslamPranto/MahfuzulIslamPranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# 📫 How to reach me:
 ## 🌐 Socials:
 Visit Linkedin Profile: https://www.linkedin.com/in/mahfuzulip/
 
@@ -24,11 +24,5 @@ Visit Linkedin Profile: https://www.linkedin.com/in/mahfuzulip/
 ![](https://github-readme-stats.vercel.app/api?username=MahfuzulIslamPranto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MahfuzulIslamPranto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahfuzulIslamPranto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=MahfuzulIslamPranto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
